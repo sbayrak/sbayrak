@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sbayrak
-- 👀 I’m interested in JavaScript, React, React Native and GraphQL
+- 👀 I’m interested in TypeScript, JavaScript, React, React Native and GraphQL
 - 🌱 I’m currently learning React Native 
 - 📫 suat.bayrak@bilgiedu.net
 
